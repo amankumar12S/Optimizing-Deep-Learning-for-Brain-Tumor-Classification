@@ -1,3 +1,13 @@
+## 🤝 Collaborative Development & Contributions
+This ablation study and official implementation was a joint project developed by **Aman Kumar** and **Latchan Chhetri**. 
+
+**My Core Contributions (Aman Kumar):**
+* Developed and optimized the medical image segmentation pipelines.
+* Handled the preprocessing, augmentation strategies, and formatting of complex patient-level datasets (such as BraTS).
+* Co-authored the comparative ablation study to determine the most effective deep learning strategies for brain tumor classification.
+
+
+
 # Optimizing Deep Learning for Brain Tumor Classification
 
 ### **A Comparative Ablation Study of Preprocessing & Augmentation Strategies using VGG16**
